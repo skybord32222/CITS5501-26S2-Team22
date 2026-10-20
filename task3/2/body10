@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+
+<link href="/rcswa/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20250306T001738Z" rel="stylesheet"><link href="/rcswa/-/media/base-themes/main-theme/styles/optimized-min.css?t=20250306T001739Z" rel="stylesheet">
+    
+    
+
+
+    <title>429 Too Many Requests</title>
+
+
+        <link rel="canonical" href="https://www.uwa.edu.au/429" />
+
+
+
+
+
+
+
+
+<meta property="og:title"  content="429"><meta property="og:url"  content="https://www.uwa.edu.au/429">
+
+
+
+
+
+<meta property="twitter:title"  content="429"><meta property="twitter:card"  content="summary_large_image">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="itemid" content="3B82F281-1EA0-4344-8C83-ADFDC12D2C26">
+    <meta name="version" content="1">
+    <meta name="lang" content="en">
+    <meta name="site" content="UWACorporate">
+    
+
+                
+                    <link href="/Theme-SXA/dist/policy/main.css" rel="stylesheet" />
+                
+                
+                    <link href="https://static.weboffice.uwa.edu.au/visualid/devcore/sitecore/css/navigation.css" rel="stylesheet" />
+    
+</head>
+<body class="default-device bodyclass">
+    
+
+
+
+
+
+
+
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="grid-container">
+            
+
+
+
+<div class="component container grid-container cell full" id="uwa-header__row-single" >
+    <div class="component-content grid-x grid-padding-x">
+
+<div class="component image file-type-icon-media-link medium-2 cell" id="uwa-header__container-logo">
+    <div class="component-content">
+<div class="uwa-nav__logo">
+    
+    <a href="/">
+        <img src="/policy/-/media/project/uwa/uwa/masterbrand/core-elements/logo-uwacrest-white.svg" alt="The University of Western Australia" />
+    </a>
+    
+</div>
+     
+    </div>
+</div>
+    <div class="component navigation medium-8 cell" id="uwa-header__container-site">
+        <div class="component-content">
+<div id="uwa-nav__site" class="uwa-nav__links">
+    <ul><li>
+                    <button class="_menu">Study</button><div class="uwa-nav__menu _megamenu">
+                            <div class="_inner">
+                                <div class="_title">
+                                    <h2><a href="http://www.uwa.edu.au/study">Study</a></h2>
+                                    <p></p>
+                                </div>
+                                <div class="_links">
+                                    <ul>
+                                                <li>
+                                                    <a href="/study/explore-courses">Explore courses</a>
+                                                    <ul>
+                                                                <li><a href="/study/explore-courses/find-a-course">Find a course</a></li>
+                                                                <li><a href="/study/explore-courses/study-areas">Study areas</a></li>
+                                                                <li><a href="/study/explore-courses/undergraduate">Undergraduate courses</a></li>
+                                                                <li><a href="/study/explore-courses/postgraduate">Postgraduate courses</a></li>
+                                                                <li><a href="/study/explore-courses/higher-degree-by-research">Higher Degree by Research</a></li>
+                                                                <li><a href="/study/explore-courses/assured-pathways">Assured Pathways</a></li>
+                                                                <li><a href="/study/explore-courses/short-courses">Short courses</a></li>
+                                                                <li><a href="/study/explore-courses/our-courses-explained">Our courses explained</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="/study/discover-uwa">Discover UWA</a>
+                                                    <ul>
+                                                                <li><a href="/study/discover-uwa/future-career">Career opportunities</a></li>
+                                                                <li><a href="/study/discover-uwa/seek-wisdom">Seek Wisdom</a></li>
+                                                                <li><a href="/study/discover-uwa/our-campus">Our campus</a></li>
+                                                                <li><a href="/study/discover-uwa/uwa-albany">UWA Albany</a></li>
+                                                                <li><a href="/study/discover-uwa/accommodation">Accommodation</a></li>
+                                                                <li><a href="/study/discover-uwa/open-day">Open Day</a></li>
+                                                                <li><a href="/study/discover-uwa/events">Events</a></li>
+                                                                <li><a href="/study/discover-uwa/student-exchange">Student Exchange and Study Abroad</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="/study/how-to-apply">How to apply</a>
+                                                    <ul>
+                                                                <li><a href="/study/how-to-apply/undergraduate">Undergraduate applicants</a></li>
+                                                                <li><a href="/study/how-to-apply/postgraduate">Postgraduate applicants</a></li>
+                                                                <li><a href="/study/how-to-apply/higher-degree-by-research">Research applicants</a></li>
+                                                                <li><a href="/study/how-to-apply/international-applicants">International applicants</a></li>
+                                                                <li><a href="/study/how-to-apply/pathways-and-eligibility">Pathways and eligibility</a></li>
+                                                                <li><a href="/study/how-to-apply/accept-your-offer">Accept your offer</a></li>
+                                                                <li><a href="/study/how-to-apply/defer-your-offer">Defer your offer</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="/study/scholarships-and-fees">Scholarships and fees</a>
+                                                    <ul>
+                                                                <li><a href="/study/scholarships-and-fees/calculate-your-fees">Calculate your fees</a></li>
+                                                                <li><a href="/study/scholarships-and-fees/international-student-fees">International student fees</a></li>
+                                                                <li><a href="/study/scholarships-and-fees/domestic-student-fees">Domestic student fees</a></li>
+                                                                <li><a href="/study/scholarships-and-fees/scholarships">Scholarships</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="/study/support-information">Support information</a>
+                                                    <ul>
+                                                                <li><a href="/study/support-information/contacts-and-enquiries">Contacts and enquiries</a></li>
+                                                                <li><a href="/study/support-information/international-students">International students</a></li>
+                                                                <li><a href="/study/support-information/indigenous-students">Indigenous students</a></li>
+                                                                <li><a href="/study/support-information/regional-students">Regional students</a></li>
+                                                                <li><a href="/study/support-information/parents">Parents and guardians</a></li>
+                                                                <li><a href="/study/support-information/high-schools-and-career-advisors">High schools and career advisors</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="_promo">
+                                    <ul>
+                                            <li><a href="https://www.search.uwa.edu.au/s/search.html?f.Tabs%7Ccourses=Courses&collection=uwa%7Esp-search  " title="Search for a course" rel="noopener noreferrer" target="_self">Search for a course</a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                </li>  
+            <li>
+                    <button class="_menu">Life at UWA</button><div class="uwa-nav__menu _megamenu">
+                            <div class="_inner">
+                                <div class="_title">
+                                    <h2><a href="/life-at-uwa">Life at UWA</a></h2>
+                                    <p></p>
+                                </div>
+                                <div class="_links">
+                                    <ul>
+                                                <li>
+                                                    <a href="/life-at-uwa/accommodation">Accommodation</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="/life-at-uwa/arts-and-culture">Arts and culture</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="/life-at-uwa/clubs-and-societies">Clubs and societies</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="/life-at-uwa/sport-and-fitness">Sport and fitness</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="/life-at-uwa/student-guild">Student Guild</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="/life-at-uwa/study-abroad">Study abroad</a>
+                                                    </li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="_promo">
+                                    <ul> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                </li>  
+            <li>
+                    <button class="_menu">Our research</button><div class="uwa-nav__menu _megamenu">
+                            <div class="_inner">
+                                <div class="_title">
+                                    <h2><a href="https://www.uwa.edu.au/research">Our research</a></h2>
+                                    <p></p>
+                                </div>
+                                <div class="_links">
+                                    <ul>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/research/strengths">Research strengths</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/research/strengths/clean-energy-transition-and-sustainable-resources">Clean energy transition and sustainable resources</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/strengths/health-and-biotechnology">Health and biotechnology</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/strengths/frontier-technologies">Frontier technologies</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/strengths/our-place-culture-and-heritage">Our place — culture and heritage</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/strengths/resilient-environment-and-climate-change">Resilient environment and climate change</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/research/reputation-governance">Reputation and governance</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/research/reputation-governance/prizes">Prizes</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/reputation-governance/research-case-studies">Case Studies</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/reputation-governance/rankings">Rankings</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/reputation-governance/foreign-interference">Foreign interference</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/reputation-governance/ethics-and-integrity">Ethics and integrity</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/reputation-governance/find-an-expert">Find an expert</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/research/research-degrees">Research degrees</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/research/institutes-centres">Institutes and centres</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/research/infrastructure">Infrastructure</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/research/connect">Connect</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/research/connect/consumer-community-involvement">Consumer and Community Involvement</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/connect/events">Events</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/connect/industry-partnerships">Industry partnerships</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/research/connect/policies-guidelines">Policies and guidelines</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="_promo">
+                                    <ul> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                </li>  
+            <li>
+                    <button class="_menu">Partners and community</button><div class="uwa-nav__menu _megamenu">
+                            <div class="_inner">
+                                <div class="_title">
+                                    <h2><a href="https://www.uwa.edu.au/partners-and-community">Partners and Community</a></h2>
+                                    <p></p>
+                                </div>
+                                <div class="_links">
+                                    <ul>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/partners-and-community/partnerships">Industry partnerships</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/partnerships/research-partnerships">Partner with us</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/partnerships/commercialisation">Commercialisation</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/partnerships/professional-development">Professional development</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/partnerships/consulting-services">Consulting services</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/partnerships/access-student-talent">Access student talent</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/partners-and-community/community-engagement">Community engagement</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/western-force">Western Force</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/perth-upmarket">Perth Upmarket</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/save-the-children">Save the Children</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/historical-society">Historical Society</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/perth-festival">Perth Festival</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/west-australian-opera">West Australian Opera</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/community-engagement/west-australian-symphony-orchestra">West Australian Symphony Orchestra</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/partners-and-community/global-engagement">Global engagement</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/global-engagement/internationalisation-month-2026">Internationalisation Month 2026</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/global-engagement/international-partnerships-and-agreements">International partnerships and agreements</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/global-engagement/international-sponsored-students">International Sponsored Students</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/global-engagement/international-networks">International networks</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/partners-and-community/our-alumni">Our alumni</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/partners-and-community/convocation">Convocation</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/convocation/what-is-convocation">What is Convocation?</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/convocation/events-and-meetings">Events and meetings</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/convocation/news">News</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/convocation/prizes-and-scholarships">Prizes and scholarships</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/convocation/awards-and-honours">Awards and honours</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/partners-and-community/convocation/convocation-council-members">Alumni Council</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/partners-and-community/giving-to-uwa">Giving</a>
+                                                    </li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="_promo">
+                                    <ul> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                </li>  
+            <li>
+                    <button class="_menu">About us</button><div class="uwa-nav__menu _megamenu">
+                            <div class="_inner">
+                                <div class="_title">
+                                    <h2><a href="https://www.uwa.edu.au/about">About us</a></h2>
+                                    <p></p>
+                                </div>
+                                <div class="_links">
+                                    <ul>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/our-history">Our history</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/rankings-and-reputation">Reputation</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/leadership-and-governance">Leadership and governance</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/about/leadership-and-governance/our-leadership-team">Meet the Executive</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/leadership-and-governance/strategy-and-values">Strategy and values</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/leadership-and-governance/governance">Governance</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/leadership-and-governance/policy">Policy</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/leadership-and-governance/student-conduct-and-resolution-centre">Student Conduct and Resolution Centre</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/locations">Our campus</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/about/locations/campus-services">Campus services</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/locations/campus-management">Campus management</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/locations/campus-map">Campus map</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/locations/campus-tours">Campus tours</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/locations/albany-campus">UWA Albany</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/locations/uwa-india---coming-soon">UWA India – coming soon</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/schools">Schools</a>
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/working-at-uwa">Working at UWA</a>
+                                                    <ul>
+                                                                <li><a href="https://www.uwa.edu.au/about/working-at-uwa/careers">Careers and jobs</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/working-at-uwa/volunteers">Volunteers</a></li>
+                                                                <li><a href="https://www.uwa.edu.au/about/working-at-uwa/contractors">Contractors</a></li>  
+                                                        </ul>  
+                                                    </li>
+                                                <li>
+                                                    <a href="https://www.uwa.edu.au/about/contact-us">Contact us</a>
+                                                    </li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="_promo">
+                                    <ul> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                </li>  
+            
+                <li>
+                        <button class="_menu">More</button>
+                        <div class="uwa-nav__menu">
+                            <div class="_links">
+                                <ul>
+                                    
+                                                                            <li>
+                                                <a href="/contact-us" rel="noopener noreferrer" target="_self">Contact us</a>
+                                            </li>
+                                                                            <li>
+                                                <a href="https://www.uwa.edu.au/news" rel="noopener noreferrer" target="_self">News</a>
+                                            </li>
+                                                                            <li>
+                                                <a href="https://www.uwa.edu.au/study/events" rel="noopener noreferrer" target="_self">Events</a>
+                                            </li>
+                                                                            <li>
+                                                <a href="http://www.uwa.edu.au/library" rel="noopener noreferrer" target="_self">Library</a>
+                                            </li>
+                                                                            <li>
+                                                <a href="https://www.uwa.edu.au/students" rel="noopener noreferrer" target="_self">Current students</a>
+                                            </li>
+                                                                            <li>
+                                                <a href="https://uniwa.sharepoint.com/sites/staffintranet" rel="noopener noreferrer" target="_self">Staff</a>
+                                            </li>
+                                                                            <li>
+                                                <a href="https://giving.uwa.edu.au/online-giving" rel="noopener noreferrer" target="_self">Giving</a>
+                                            </li>
+                                </ul>
+                            </div>
+                        </div>
+                </li>
+    </ul>
+    <button id="uwa-nav__mobile" class="_icon" data-target="uwa-nav__menu-mobile">Menu</button>
+</div>        </div>
+    </div>
+<div class="component plain-html medium-2 cell" id="uwa-header__container-menu">
+    <div class="component-content">
+<div class="uwa-nav__links">
+<button id="uwa-nav__mobile" class="_icon" data-target="uwa-nav__menu-mobile">Menu</button>
+</div>    </div>
+</div>    <div class="component search-form medium-2 cell" id="uwa-header__container-search">
+        <div class="component-content">
+<div class="uwa-nav__links">
+    <button id="uwa-nav__search" class="_icon" data-target="uwa-nav__menu-search">Search</button>
+    <div id="uwa-nav__menu-search" class="uwa-nav__menu _megamenu _search">
+        <div class="_inner">
+            <div class="_title">
+                <h2><a>How can we help you?</a></h2>
+            </div>
+            <div class="_form">
+                <form method="GET" action="https://www.search.uwa.edu.au/s/search.html" data-suggestion-params="collection=uowa~sp-search" id="uwa-nav__form-search">
+                    <input type="text" name="query" placeholder="Search courses, news, people"><input type="hidden" name="collection" value="uowa~sp-search" /><button type="reset">Clear</button>
+                    <button type="submit">Search</button>
+                </form>
+            </div>
+            
+
+            
+                            
+                <div class="_links">
+                    <ul id="uwa-nav__search-suggestions">
+                        <li><strong>Suggestions</strong>
+                            <ul></ul>
+                        </li>
+                        <li class="_results" aria-live"polite"=""><strong>Did you mean...</strong>
+                            <ul id="uwa-nav__search-suggestions-results"></ul>
+                        </li>
+                    </ul>
+                </div></div>
+    </div>
+</div>        </div>
+    </div>
+    </div>
+</div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="grid-container full">
+            
+
+
+<div class="component container grid-container small-12 cell" >
+    <div class="component-content grid-x grid-padding-x">
+
+
+<div class="row component grid-x column-splitter grid-x grid-padding-x">
+        <div class="initial-12 small-12 medium-6 large-6 xlarge-6 xxlarge-6 cell cell">
+            
+
+    <div class="component rich-text small-12 cell">
+        <div class="component-content">
+<h1 style="text-align: center;">
+<br />
+<br />
+Oops!</h1>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Too many requests have been made from your IP address.
+<br />
+Please adhere to the rate limits: 3 per 10 second
+</p>
+<p>&nbsp;</p>        </div>
+    </div>
+
+        </div>
+        <div class="initial-12 small-12 medium-6 large-6 xlarge-6 xxlarge-6 cell cell">
+            
+
+
+        </div>
+</div>    </div>
+</div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="grid-container">
+            
+    <div class="component col-12 cell">
+        <div class="component-content">
+
+
+<div id="uwa-footer__row-back">
+    <div class="_inner">
+        <!-- Site home link
+        <a class="_home" href="/">Optional site home link</a> -->
+        <a class="_top" href="#uwa-header__container-logo">Back to top</a>
+    </div>
+</div>
+<div id="uwa-footer__row-primary">
+    <div class="_inner">
+        <h1><a href="/">The University of Western Australia</a></h1>
+        <div class="uwa-footer__info">
+            <address><p>35 Stirling Highway<br />Perth WA 6009 Australia</p>
+                <p><strong><a href="tel:+61864886000">(+61 8) 6488 6000</a></strong></p>
+                <p>Emergency<br /><a href="tel:+61864882222">(+61 8) 6488 2222</a></p>
+                <p>CRICOS 00126G | PRV12169, Australian University</p></address>
+            <nav>
+                <ul>
+                    
+                    
+                                         <li><a href="/accessibility" class="" target="|Custom">Accessibility</a></li>
+                                        
+                                         <li><a href="https://www.uwa.edu.au/askuwa" class="" target="_self">Ask UWA</a></li>
+                                        
+                                         <li><a href="https://www.uwa.edu.au/disclaimer-copyright" class="" target="_self">Terms of use</a></li>
+                                        
+                                         <li><a href="https://www.uwa.edu.au/jobs" class="" target="_self">Jobs</a></li>
+                                        
+                                         <li><a href="/privacy" class="" target="|Custom">Privacy</a></li>
+                                        
+                                         <li><a href="https://www.uwa.edu.au/staff-portal" class="" target="_self">Staff portal</a></li>
+                                        
+                </ul>
+            </nav>
+            <aside><p>The University of Western Australia acknowledges all the Traditional Owners of lands across Australia, including the Whadjuk Noongar people at the Boorloo (Perth) campus and the Menang Noongar people at the Kinjarling (Albany) campus. We recognise and celebrate that Traditional Owners remain the cultural custodians of their lands, and continue to practise their values, languages, beliefs, and knowledge.</p>
+<p>Original illustration by Artist Dr Richard Barry Walley OAM</p>
+<p><a href="https://www.uwa.edu.au/indigenous-commitment">Indigenous Portfolio</a></p></aside>
+        </div>
+    </div>
+</div>
+<div id="uwa-footer__row-secondary">
+    <div class="_inner">
+        <div class="uwa-footer__network">
+            <ul class="_social">
+                
+                
+                                <li><a href="https://www.facebook.com/universitywa" class="_icon-facebook" target="_blank"> </a></li>
+                                
+                                <li><a href="https://www.instagram.com/universitywa" class="_icon-instagram" target="_blank"> </a></li>
+                                
+                                <li><a href="https://twitter.com/uwanews" class="_icon-x" target="_blank"> </a></li>
+                                
+                                <li><a href="https://www.youtube.com/user/universitywa" class="_icon-youtube" target="_blank"> </a></li>
+                                
+                                <li><a href="https://www.linkedin.com/school/university-of-western-australia/" class="_icon-linkedin" target="_blank"> </a></li>
+                                
+            </ul>
+            <ul class="_member">
+                <li>
+                    <a href="https://go8.edu.au/">
+                        <img src="https://static.weboffice.uwa.edu.au/visualid/devcore/1/_assets/img/member-go8_white.svg" alt="Group of 8 Member">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="uwa-footer__row-tertiary">
+    <details>
+        <summary>This page</summary>
+        <dl>
+            <dt>Updated:</dt>
+            <dd>24/07/2025 10:08PM (this date excludes nested assets)</dd>
+            <!--<dt>Feedback:</dt>
+            <dd><a href="mailto:webfeedback-fs@uwa.edu.au">webfeedback-fs@uwa.edu.au</a></dd>-->
+            <dt>Content ID:</dt>
+            <dd>{3B82F281-1EA0-4344-8C83-ADFDC12D2C26}</dd>
+        </dl>
+    </details>
+</div>        </div>
+    </div>
+
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+
+
+
+
+
+
+
+<script src="/rcswa/-/media/base-themes/core-libraries/scripts/optimized-min.js?t=20250306T001737Z"></script><script src="/rcswa/-/media/base-themes/xa-api/scripts/optimized-min.js?t=20250306T001738Z"></script><script src="/rcswa/-/media/base-themes/main-theme/scripts/optimized-min.js?t=20250306T001739Z"></script><script src="/rcswa/-/media/base-themes/google-maps-js-connector/scripts/optimized-min.js?t=20250306T001740Z"></script><script src="/rcswa/-/media/base-themes/maps/scripts/optimized-min.js?t=20250306T001740Z"></script><script src="/rcswa/-/media/base-themes/resolve-conflicts/scripts/optimized-min.js?t=20250306T001742Z"></script>
+
+
+                
+                
+                
+                    <script defer src="https://static.weboffice.uwa.edu.au/visualid/devcore/sitecore/js/navigation.js"></script>
+                
+
+<!-- /#wrapper -->
+
+</body>
+</html>

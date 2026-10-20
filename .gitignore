@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build/
+/bin/
+
+/PLAN.md
+/HANDOVER.md
+/AUDIT.md
+/project-spec-phase-2*.txt
+/report.txt
+/evidence/checks.txt
+/evidence/failure-demo.txt

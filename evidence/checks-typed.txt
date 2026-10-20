@@ -1,0 +1,36 @@
+UTC: 2026-10-20T11:56:19.375222+00:00
+Python: 3.14.8
+Command: python3 -W error -m unittest discover -s tests -v
+Exit status: 0
+
+test_body_limit_is_reported (test_starter.StarterTests.test_body_limit_is_reported)
+Mark responses larger than the configured byte limit as failed. ... ok
+test_cli_caps_number_of_document_attempts (test_starter.StarterTests.test_cli_caps_number_of_document_attempts)
+Limit document requests to the selected count without repeats. ... ok
+test_cli_stops_after_index_failure (test_starter.StarterTests.test_cli_stops_after_index_failure)
+Exit with an error when the index cannot be downloaded. ... ok
+test_discovery_filters_and_deduplicates (test_starter.StarterTests.test_discovery_filters_and_deduplicates)
+Keep same-host documents and remove duplicate URL fragments. ... ok
+test_discovery_ignores_malformed_document_links (test_starter.StarterTests.test_discovery_ignores_malformed_document_links)
+Skip malformed URLs without discarding valid document links. ... ok
+test_double_exposes_missing_format_validation (test_starter.StarterTests.test_double_exposes_missing_format_validation)
+Report transfer success even if a .pdf URL returns HTML. ... ok
+test_empty_index (test_starter.StarterTests.test_empty_index)
+Return no document links from an HTML page without links. ... ok
+test_http_error_is_reported (test_starter.StarterTests.test_http_error_is_reported)
+Record HTTP failures and avoid retrying the request. ... ok
+test_http_error_without_headers (test_starter.StarterTests.test_http_error_without_headers)
+Handle an HTTP error whose response headers are unavailable. ... ok
+test_interrupted_body_is_reported (test_starter.StarterTests.test_interrupted_body_is_reported)
+Mark a download as failed if the response body is incomplete. ... ok
+test_invalid_url_is_reported (test_starter.StarterTests.test_invalid_url_is_reported)
+Report an invalid request URL without attempting a connection. ... ok
+test_network_failures_are_reported_without_retry (test_starter.StarterTests.test_network_failures_are_reported_without_retry)
+Handle timeouts, URL errors, and incomplete responses once. ... ok
+test_redirect_handler_disallows_followup_request (test_starter.StarterTests.test_redirect_handler_disallows_followup_request)
+Verify that HTTP redirects cannot initiate a second request. ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.014s
+
+OK

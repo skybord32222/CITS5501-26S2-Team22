@@ -1,0 +1,11 @@
+HTTP/2 429 
+alt-svc: h3=":443"; ma=2592000
+content-type: text/html; charset=utf-8
+date: Tue, 20 Oct 2026 10:41:13 GMT
+retry-after: 4
+server: cloudflare
+x-ratelimit-limit: 3
+x-ratelimit-remaining: 0
+x-ratelimit-reset: 1792492878
+content-length: 40740
+
